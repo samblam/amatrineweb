@@ -18,8 +18,8 @@ export default function Navbar() {
             <NavLink href="#commissions">Commissions</NavLink>
             <div className="flex space-x-2">
               <SocialLink href="https://twitch.tv/amatrine" icon={<Twitch className="h-6 w-6" />} color="purple" />
-              <SocialLink href="#" icon={<Instagram className="h-6 w-6" />} color="pink" />
-              <SocialLink href="#" icon={<Twitter className="h-6 w-6" />} color="blue" />
+              <SocialLink href="https://www.instagram.com/amatrineplays/" icon={<Instagram className="h-6 w-6" />} color="pink" />
+              <SocialLink href="https://x.com/totalfratmove/status/1136061190134804480" icon={<Twitter className="h-6 w-6" />} color="blue" />
             </div>
           </div>
         </div>
